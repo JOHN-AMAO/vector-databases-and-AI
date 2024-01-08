@@ -1,0 +1,4 @@
+-- Do the vector databases in production course
+-- build projects
+-- learn GO
+-- build a chatgpt like app, using existing interfaces with kitt-like audio bot implemented within
